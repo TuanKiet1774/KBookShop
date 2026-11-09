@@ -216,5 +216,15 @@ Sau khi ứng dụng đã được publish thành công, cần thực hiện m�
 
 ---
 
+## Một số giao diện
+
+![alt text](image/LoginScreen.png)
+![alt text](image/BookScreen.png)
+![alt text](image/ShopScreen.png)
+![alt text](image/CartScreen.png)
+![alt text](image/AdminMode.png)
+
+---
+
 > **📌 Lưu ý:**  
 > Các thông tin chỉ mang tính chất tham khảo và học tập.
