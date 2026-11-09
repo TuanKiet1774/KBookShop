@@ -21,6 +21,8 @@
 
 Dự án áp dụng mô hình phân tách nghiệp vụ đa tầng (4-Layer Architecture Canvas), giúp hệ thống đạt độ mở rộng cao (scalability), dễ bảo trì, chuẩn hóa quy trình từ khâu duyệt sách, quản lý gian hàng, giỏ hàng, đặt hàng đến xử lý khiếu nại và phản hồi từ độc giả.
 
+Link project: [K'BookShop - Giving Wings to Knowledge](https://personal-wq8yxgj3.outsystemscloud.com/K_BookShop_UI/Home)
+
 ---
 
 ## Điểm Nổi Bật
